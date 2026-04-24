@@ -23,6 +23,6 @@ A light weight javascript project that demonstrate how to drag and drop items fr
 
 ## How to run
 
-[Click here to view the repository on HITHUB]()
+[Click here to view the repository on HITHUB](https://github.com/Amnaakhtar1213/kanban-drag-and-drop.git)
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/kanban-drag-and-drop.git
